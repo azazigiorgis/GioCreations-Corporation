@@ -104,7 +104,7 @@ body {
   }
   .navbar .main-nav li .nav-links {
     margin-left: 40px;
-    color: #f9f9f9;
+    color: white;
   }
   .navbar .main-nav li .nav-links:hover {
     color: #01d7a7;
@@ -314,9 +314,7 @@ body {
 }
 
 #people {
-  background: url("https://i.postimg.cc/yxckQ417/4.jpg") no-repeat;
-  background-size: cover;
-  background-position: center;
+  background: blue;
   padding: 40px 0;
 }
 

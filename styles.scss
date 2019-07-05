@@ -87,7 +87,7 @@ body {
              margin: 0;
              .nav-links {
                 margin-left: 40px;
-                color:$white;
+                color: white;
                 &:hover {
                   color: $green;
                 }
@@ -267,9 +267,7 @@ body {
 
 
 #people {
-    background: url("https://i.postimg.cc/yxckQ417/4.jpg") no-repeat;
-    background-size: cover;
-    background-position: center;
+    background: blue;
     padding: 40px 0;
     .text {
         text-align: center;
