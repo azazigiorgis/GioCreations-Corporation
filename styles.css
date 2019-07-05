@@ -76,7 +76,8 @@ body {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    background: #f9f9f9;
+    background: black;
+    padding: 0 60px;
   }
   .navbar .navbar-toggle {
     display: none;
@@ -103,7 +104,7 @@ body {
   }
   .navbar .main-nav li .nav-links {
     margin-left: 40px;
-    color: black;
+    color: #f9f9f9;
   }
   .navbar .main-nav li .nav-links:hover {
     color: #01d7a7;
